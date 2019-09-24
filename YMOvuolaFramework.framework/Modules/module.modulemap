@@ -1,0 +1,6 @@
+framework module YMOvuolaFramework {
+  umbrella header "YMOvuolaFramework.h"
+
+  export *
+  module * { export * }
+}
